@@ -1,3 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP R7FS3A77C2A01CBJ
+F https://www.renesas.com/us/en/document/man/s3a7-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS3A77C2A01CLJ
+F https://www.renesas.com/us/en/document/man/s3a7-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS3A77C3A01CFB
+F https://www.renesas.com/us/en/document/man/s3a7-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS3A77C3A01CFM
+F https://www.renesas.com/us/en/document/man/s3a7-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS3A77C3A01CFP
+F https://www.renesas.com/us/en/document/man/s3a7-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS3A77C3A01CNB
+F https://www.renesas.com/us/en/document/man/s3a7-microcontroller-group-users-manual
+$ENDCMP
+#
 #End Doc Library

@@ -1,3 +1,39 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP R7FS7G27G2A01CBD
+F https://www.renesas.com/us/en/document/man/s7g2-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS7G27G2A01CBG
+F https://www.renesas.com/us/en/document/man/s7g2-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS7G27G2A01CLK
+F https://www.renesas.com/us/en/document/man/s7g2-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS7G27G3A01CFB
+F https://www.renesas.com/us/en/document/man/s7g2-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS7G27G3A01CFP
+F https://www.renesas.com/us/en/document/man/s7g2-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS7G27H2A01CBD
+F https://www.renesas.com/us/en/document/man/s7g2-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS7G27H2A01CBG
+F https://www.renesas.com/us/en/document/man/s7g2-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS7G27H2A01CLK
+F https://www.renesas.com/us/en/document/man/s7g2-microcontroller-group-users-manual
+$ENDCMP
+#
+$CMP R7FS7G27H3A01CFB
+F https://www.renesas.com/us/en/document/man/s7g2-microcontroller-group-users-manual
+$ENDCMP
+#
 #End Doc Library
